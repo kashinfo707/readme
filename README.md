@@ -13,10 +13,10 @@
 
 ### ☆ about me
 
--  ⋆ Undergraduate Life Science student
--  ⋆ Interested in biological research and computational biology
--  ⋆ Learning Python, data analysis, R and bioinformatics
--  ⋆ Currently building my research portfolio
+ ⋆ Undergraduate Life Science student
+ ⋆ Interested in biological research and computational biology
+ ⋆ Learning Python, data analysis, R and bioinformatics
+  
 
 ### ☆ tools & technologies
 
